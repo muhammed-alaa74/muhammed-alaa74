@@ -17,13 +17,13 @@ A dedicated **Machine Learning Engineer** focused on developing scalable AI solu
 
 ### Technical Expertise
 
-#### 🧠 Core Modeling & Intelligence
+#### Core Modeling & Intelligence
 - **Deep Learning:** CNNs, RNNs, Transformers (PyTorch & TensorFlow)
 - **Machine Learning:** Regression, Clustering, Ensemble Methods (XGBoost, Random Forest)
 - **Computer Vision:** Object Detection, Image Segmentation (OpenCV)
 - **NLP:** Text Classification, Sentiment Analysis
 
-#### 🛠️ Tools & Environments
+#### Tools & Environments
 - **Languages:** Python (Expert), C++, SQL
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Databases:** MySQL, Oracle SQL
@@ -33,8 +33,8 @@ A dedicated **Machine Learning Engineer** focused on developing scalable AI solu
 
 ### Professional Metrics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=aurora&title_color=1A73E8&icon_color=1A73E8&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=aurora&title_color=1A73E8&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=tokyonight&title_color=1A73E8&icon_color=1A73E8&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=tokyonight&title_color=1A73E8&hide_border=false" width="45%" />
 </p>
 
 ---
