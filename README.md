@@ -36,8 +36,8 @@
 
 ### 🌐 Connectivity
 <p align="left">
-<a href="https://linkedin.com/in/muhammed-elmelegy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+<a href="https://linkedin.com/[in/muhammed-elmelegy](https://www.linkedin.com/in/muhammed-elmelegy-718759343?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:mohamedelmelegy632@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" /></a>
 </p>
 
