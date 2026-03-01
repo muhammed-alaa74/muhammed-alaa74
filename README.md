@@ -4,55 +4,44 @@
   <span>Data Science | Computer Vision | Deep Learning</span>
 </p>
 
+---
+
+### 📊 Proficiency & Capabilities
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-1A73E8?style=flat-shadow" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### Executive Summary
-A dedicated **Machine Learning Engineer** focused on developing scalable AI solutions. Expertise in end-to-end ML pipelines, from data preprocessing and feature engineering to model deployment and optimization. Proficient in transforming complex datasets into actionable business insights.
+### 🔬 Technical Focus
+* **Modeling:** End-to-end development of Neural Networks and Statistical Models.
+* **Analysis:** Advanced EDA, Feature Engineering, and Customer Segmentation (RFM).
+* **Deployment:** Building scalable AI solutions and integrating ML pipelines.
 
 ---
 
-### Technical Expertise
-
-#### Core Modeling & Intelligence
-- **Deep Learning:** CNNs, RNNs, Transformers (PyTorch & TensorFlow)
-- **Machine Learning:** Regression, Clustering, Ensemble Methods (XGBoost, Random Forest)
-- **Computer Vision:** Object Detection, Image Segmentation (OpenCV)
-- **NLP:** Text Classification, Sentiment Analysis
-
-#### Tools & Environments
-- **Languages:** Python (Expert), C++, SQL
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Databases:** MySQL, Oracle SQL
-- **DevOps/Tools:** Git, GitHub, Linux, Jupyter Notebooks
+### 📁 Featured Projects
+* 🚀 **[Online Retail Customer Analytics](https://github.com/muhammed-alaa74/Online-Retail--Customer-Analytics):** Deep dive into customer behavior using Python & ML.
 
 ---
 
-### Professional Metrics & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=tokyonight&title_color=1A73E8&icon_color=1A73E8&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=tokyonight&title_color=1A73E8&hide_border=false" width="45%" />
-</p>
-
----
-
-### Project Portfolio Spotlight
-* **[Online Retail Customer Analytics](https://github.com/muhammed-alaa74/Online-Retail--Customer-Analytics):** Implementing RFM analysis and customer segmentation to drive retail insights.
-* *(Add your next big project here...)*
-
----
-
-### Contact & Networking
+### 🌐 Connectivity
 <p align="left">
-<a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammed-elmelegy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
+<a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" /></a>
 </p>
 
 <br />
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
