@@ -1,84 +1,56 @@
-<h1 align="center">Hi 👋, I'm Muhammed Alaa</h1>
+<h1 align="center">Muhammed Alaa</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;AI+Researcher;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;AI+Solutions+Developer;Data+Scientist;Deep+Learning+Specialist" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A Passionate AI & ML Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">Machine Learning & Artificial Intelligence Engineer</h3>
 
 ---
 
-### 🚀 About Me:
-- 🤖 I specialize in building **Predictive Models** and **Neural Networks**.
-- 🔭 Currently working on **Customer Analytics** and **Retail Data Insights**.
-- 💡 Deeply interested in **Computer Vision** and **Large Language Models (LLMs)**.
-- 🎓 Constantly learning and staying updated with the latest AI research.
+### Professional Summary
+- Specialized in developing and deploying Machine Learning models and Deep Learning architectures.
+- Expert in Data Preprocessing, Feature Engineering, and Advanced Statistical Analysis.
+- Proven experience in Computer Vision (OpenCV) and Frameworks like PyTorch and TensorFlow.
+- Strong foundation in Software Engineering principles using C++ and Python.
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### Technical Skills
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-      <br>Pandas
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
-      <br>SQL/MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
-      <br>Visualization
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br>C++
-    </td>
-  </tr>
-</table>
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | Python, C++, SQL |
+| **ML Frameworks** | Scikit-Learn, TensorFlow, PyTorch, Keras |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Computer Vision** | OpenCV, Image Processing |
+| **Database** | MySQL, Oracle SQL |
+| **Version Control** | Git, GitHub |
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Professional Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=transparent&title_color=1A73E8&icon_color=1A73E8&text_color=333" alt="Muhammed's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=transparent&title_color=1A73E8&text_color=333" alt="Top Langs" height="150" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+### Contact Information
 <p align="left">
-<a href="https://linkedin.com/in/muhammed-elmelegy" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ml_igo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammed-elmelegy" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/muhammed-alaa74" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=1A73E8&style=flat-square" alt="Views" />
 </p>
 
 <p align="center"> 
