@@ -46,7 +46,7 @@ AI-focused Computer Science student with hands-on experience in building and dep
 
 ### Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammed-elmelegy" target="blank">
+<a href="linkedin.com/in/muhammed-elmelegy" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
 </a>
 <a href="mailto:mohamedelmelegy632@gmail.com">
