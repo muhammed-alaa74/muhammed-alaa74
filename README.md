@@ -24,7 +24,7 @@ AI-focused Computer Science student with hands-on experience in building and dep
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -55,6 +55,11 @@ AI-focused Computer Science student with hands-on experience in building and dep
 <a href="https://github.com/muhammed-alaa74">
   <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" />
 </a>
+</p>
+
+<br />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 <br />
