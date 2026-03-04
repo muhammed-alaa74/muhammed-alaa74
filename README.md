@@ -32,7 +32,7 @@ AI-focused Computer Science student with hands-on experience in building and dep
 
 ---
 
-### 🔬 Core Focus Areas
+### Core Focus Areas
 * **Modeling:** End-to-end development of Neural Networks (CNNs, RNNs) and Ensemble Methods.
 * **Analysis:** Exploratory Data Analysis (EDA) and Predictive Analytics.
 * **Domain:** Customer Analytics, Segmentation (RFM), and Computer Vision.
