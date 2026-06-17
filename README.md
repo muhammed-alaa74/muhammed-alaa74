@@ -1,69 +1,96 @@
-<h1 align="center">Muhammed Alaa</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Alaa</h1>
+<h3 align="center">AI & Machine Learning Engineer</h3>
+
 <p align="center">
-  <b>AI & Machine Learning Engineer</b><br>
-  <span>Data Science | Computer Vision | Deep Learning</span>
+Data Science • Deep Learning • Computer Vision • Generative AI
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Computer+Vision+Developer;Deep+Learning+Practitioner;Building+AI+Solutions+for+Real+World+Problems" />
 </p>
 
 ---
 
-### Professional Summary
-AI-focused Computer Science student with hands-on experience in building and deploying Machine Learning solutions. Skilled in transforming raw data into meaningful insights through statistical analysis, feature engineering, and deep learning models. Passionate about solving real-world problems using data-driven approaches and continuously improving technical expertise.
+## 🚀 About Me
+
+🎓 Computer Science Student at Zagazig University
+
+🤖 Passionate about AI, Machine Learning, Deep Learning, and Computer Vision
+
+📊 Interested in Data Science and Predictive Analytics
+
+🌱 Currently learning Generative AI, LLMs, and Agentic AI
+
+💡 I enjoy transforming raw data into intelligent solutions
 
 ---
 
-### Technical Expertise
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- OpenCV
+- XGBoost
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
 
-### Core Focus Areas
-* **Modeling:** End-to-end development of Neural Networks (CNNs, RNNs) and Ensemble Methods.
-* **Analysis:** Exploratory Data Analysis (EDA) and Predictive Analytics.
-* **Domain:** Customer Analytics, Segmentation (RFM), and Computer Vision.
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammed-alaa74&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-alaa74&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-alaa74&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### Featured Project
-* **[Online Retail Customer Analytics](https://github.com/muhammed-alaa74/Online-Retail--Customer-Analytics):** Implementing Machine Learning for customer behavior insights and segmentation.
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammed-alaa74&theme=tokyonight&row=1&column=7"/>
+</p>
 
 ---
 
-### Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammed-elmelegy" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:mohamedelmelegy632@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" />
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 <a href="https://github.com/muhammed-alaa74">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
 
-<br />
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
+---
 
-<br />
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=muhammed-alaa74&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
