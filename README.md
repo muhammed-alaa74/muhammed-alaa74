@@ -14,11 +14,11 @@
 
 ### About Me
 
-I'm a Computer Science student at Zagazig University (Class of 2027), majoring in AI/ML, and AI Co-Lead at the ZagEng Student Community, where I've taught ML workshops to 50+ students. I like taking models from a messy CSV all the way to something a real user could click on.
+AI Engineer focused on building end-to-end machine learning systems — from data pipelines to production-ready, deployed models. CS undergraduate (AI/ML track) at Zagazig University.
 
-> Currently sharpening **deep learning, computer vision, and generative AI** skills through hands-on, end-to-end projects.
+> 🧠 Deepening expertise in **deep learning, computer vision, and generative AI**.
 
-> Most excited about **AI engineering** — turning research-grade models into reliable, deployable products.
+> 🎯 Focused on **scalable, production-grade ML solutions**.
 
 </td>
 <td width="40%" align="center" valign="top">
