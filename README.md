@@ -8,9 +8,24 @@
 
 ---
 
-### About
+<table>
+<tr>
+<td width="60%" valign="top">
 
-AI Engineer with hands-on experience building and deploying end-to-end machine learning systems. Skilled across the full ML lifecycle — data engineering, model development, API integration, and interactive deployment. Currently pursuing CS at Zagazig University (2027).
+### About Me
+
+I'm a Computer Science student at Zagazig University (Class of 2027), majoring in AI/ML, and AI Co-Lead at the ZagEng Student Community, where I've taught ML workshops to 50+ students. I like taking models from a messy CSV all the way to something a real user could click on.
+
+> Currently sharpening **deep learning, computer vision, and generative AI** skills through hands-on, end-to-end projects.
+
+> Most excited about **AI engineering** — turning research-grade models into reliable, deployable products.
+
+</td>
+<td width="40%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,10 +79,29 @@ AI Engineer with hands-on experience building and deploying end-to-end machine l
 
 ---
 
-### Contact
+<details open>
+<summary><h3>🌐 Let's Connect</h3></summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/muhammed-elmelegy)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0f172a?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/mohamedelmelegy10)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammed-alaa74)
+<p align="center">
+<a href="https://linkedin.com/in/muhammed-elmelegy" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://kaggle.com/mohamedelmelegy10" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-0f172a?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+</a>
+<a href="https://github.com/muhammed-alaa74" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<!-- Got a resume link? Drop it here the same way:
+<p align="center">
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/View%20My%20Resume-0f172a?style=for-the-badge&logo=readthedocs&logoColor=60A5FA" />
+</a>
+</p>
+-->
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=80&section=footer" width="100%"/>
