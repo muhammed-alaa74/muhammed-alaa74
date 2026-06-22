@@ -18,7 +18,7 @@ AI Engineer focused on building end-to-end machine learning systems — from dat
 
 > Deepening expertise in **deep learning, computer vision, and generative AI**.
 
-> Focused on **scalable, production-grade ML solutions**.
+> Focused on **scalable, production-grade ML solution**.
 
 </td>
 <td width="40%" align="center" valign="top">
