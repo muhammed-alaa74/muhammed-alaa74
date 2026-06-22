@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Muhammed%20Elmelegy&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Muhammed%20Elmelegy&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=End-to-End+AI+Systems;Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;From+Raw+Data+to+Production-Ready+Models)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@ AI Engineer focused on building end-to-end machine learning systems — from dat
 
 > Deepening expertise in **deep learning, computer vision, and generative AI**.
 
-> Focused on **scalable, production-grade ML solution**.
+> Focused on **scalable, production-grade ML solutions**.
 
 </td>
 <td width="40%" align="center" valign="top">
