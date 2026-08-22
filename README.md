@@ -72,13 +72,11 @@ AI Engineer focused on building end-to-end machine learning systems — from dat
 </a>
 </p>
 
-<!-- Got a resume link? Drop it here the same way:
 <p align="center">
-<a href="YOUR_RESUME_LINK" target="_blank">
+<a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/View%20My%20Resume-0f172a?style=for-the-badge&logo=readthedocs&logoColor=60A5FA" />
 </a>
 </p>
--->
 
 </details>
 
