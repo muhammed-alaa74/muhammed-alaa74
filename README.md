@@ -12,7 +12,6 @@
 <br/>
 
 ### Tech Stack
-<div align="center">
 
 **Core**
 <br/>
@@ -45,15 +44,15 @@
 <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
 
-</div>
+<br/>
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=60A5FA&height=70&section=header&text=MAYBE%20YOU%20NEED&fontSize=22&fontColor=60A5FA&fontAlignY=50&animation=fadeIn" width="80%"/>
-
-<kbd>[LinkedIn](https://linkedin.com/in/muhammed-elmelegy)</kbd> &nbsp; <kbd>[Kaggle](https://kaggle.com/mohamedelmelegy10)</kbd> &nbsp; <kbd>[GitHub](https://github.com/muhammed-alaa74)</kbd> &nbsp; <kbd>[Resume](https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing)</kbd>
+<img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
+<a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/></a>
+<a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
+<a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
+<a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer" width="100%"/>
