@@ -1,33 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=250&section=header&text=MUHAMMED%20ELMELEGY&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=MUHAMMED%20ELMELEGY&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
 
 <br/>
-<br/>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=60A5FA&labelColor=0f172a"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Generative%20AI-1e3a8a?style=for-the-badge&logoColor=60A5FA&labelColor=1e3a8a"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
 
 </div>
-
 <br/>
-<br/>
-
-<div align="center">
 
 ### Tech Stack
-
-<br/>
+<div align="center">
 
 **Core**
-
+<br/>
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
@@ -35,56 +23,37 @@
 <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logoColor=white"/>
 
-<br/>
-<br/>
-
 **Generative & Agentic AI**
-
+<br/>
 <img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
 <img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-0f172a?style=for-the-badge&logo=keras&logoColor=D00000"/>
 
-<br/>
-<br/>
-
 **Data & APIs**
-
+<br/>
 <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabf7"/>
 <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 <img src="https://img.shields.io/badge/Plotly-0f172a?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<br/>
-<br/>
-
 **Tools**
-
+<br/>
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
 
 </div>
-
-<br/>
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=60A5FA&height=100&section=header&text=MAYBE%20YOU%20NEED&fontSize=24&fontColor=60A5FA&fontAlignY=50&animation=fadeIn" width="80%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=60A5FA&height=70&section=header&text=MAYBE%20YOU%20NEED&fontSize=22&fontColor=60A5FA&fontAlignY=50&animation=fadeIn" width="80%"/>
 
 <kbd>[LinkedIn](https://linkedin.com/in/muhammed-elmelegy)</kbd> &nbsp; <kbd>[Kaggle](https://kaggle.com/mohamedelmelegy10)</kbd> &nbsp; <kbd>[GitHub](https://github.com/muhammed-alaa74)</kbd> &nbsp; <kbd>[Resume](https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing)</kbd>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2563eb,50:1e3a8a,100:0f172a&height=180&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer" width="100%"/>
