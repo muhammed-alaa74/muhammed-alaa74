@@ -51,6 +51,7 @@
 
 <img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
 <br>
+<br>
 <a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/></a>
 <a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
