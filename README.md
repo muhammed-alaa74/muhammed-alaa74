@@ -13,35 +13,40 @@
 </div>
 
 <br/>
+<br/>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center">
+<div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  whoami                                                    │
-├──────────────────────────────────────────────────────────┤
-│  → CS & Information Systems, Zagazig University            │
-│  → Track: Artificial Intelligence / Machine Learning       │
-│  → Class of 2027                                            │
-│  → Domain: Deep Learning · Computer Vision · Generative AI  │
-│  → Philosophy: end-to-end or it isn't finished              │
-└──────────────────────────────────────────────────────────┘
+```yaml
+role: Artificial Intelligence Engineer
+university: Zagazig University — CS & Information Systems
+track: AI / ML — Class of 2027
+focus: [Deep Learning, Computer Vision, Generative AI, Agentic Systems]
+philosophy: "end-to-end or it isn't finished"
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 <br/>
 
 <div align="center">
 
-### ▍ STACK
+### ▍ CORE
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,git,vscode,anaconda,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,git,vscode,anaconda,docker&theme=dark" />
+
+<br/>
+<br/>
+
+### ▍ GENERATIVE & AGENTIC AI
+
+<img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-0f172a?style=for-the-badge&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabf7"/>
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </div>
 
@@ -58,14 +63,7 @@
 
 <div align="center">
 
-┌ ─────────────────────────────────────── ┐
-
-**LINKEDIN** · [linkedin.com/in/muhammed-elmelegy](https://linkedin.com/in/muhammed-elmelegy)
-**KAGGLE** · [kaggle.com/mohamedelmelegy10](https://kaggle.com/mohamedelmelegy10)
-**GITHUB** · [github.com/muhammed-alaa74](https://github.com/muhammed-alaa74)
-**RESUME** · [download](https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing)
-
-└ ─────────────────────────────────────── ┘
+<kbd>[LinkedIn](https://linkedin.com/in/muhammed-elmelegy)</kbd> &nbsp; <kbd>[Kaggle](https://kaggle.com/mohamedelmelegy10)</kbd> &nbsp; <kbd>[GitHub](https://github.com/muhammed-alaa74)</kbd> &nbsp; <kbd>[Resume](https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing)</kbd>
 
 </div>
 
