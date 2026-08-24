@@ -13,7 +13,7 @@
 
 ### Tech Stack
 
-#### Core
+**Core**
 <br/>
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
@@ -22,14 +22,14 @@
 <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logoColor=white"/>
 
-#### Generative & Agentic AI
+**Generative & Agentic AI**
 <br/>
 <img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
 <img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-0f172a?style=for-the-badge&logo=keras&logoColor=D00000"/>
 
-#### Data & APIs
+**Data & APIs**
 <br/>
 <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabf7"/>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 <img src="https://img.shields.io/badge/Plotly-0f172a?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-#### Tools
+**Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
@@ -50,6 +50,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
+<br>
 <a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/></a>
 <a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
