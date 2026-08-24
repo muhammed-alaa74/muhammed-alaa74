@@ -5,14 +5,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=100000&color=60A5FA&center=true&vCenter=true&width=750&lines=I+don%27t+guess+the+future+%E2%80%94+I+engineer+it." alt="Typing SVG"/>
-
-</div>
-
-<br/>
 <br/>
 
 <div align="center">
@@ -36,7 +28,11 @@
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logoColor=white"/>
 
 <br/>
@@ -54,9 +50,9 @@
 
 **Data & APIs**
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
 <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabf7"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 <img src="https://img.shields.io/badge/Plotly-0f172a?style=for-the-badge&logo=plotly&logoColor=white"/>
 
@@ -65,7 +61,10 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
 
 </div>
 
@@ -74,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=60A5FA&height=100&section=header&text=%22The%20model%20is%20never%20the%20product.%20The%20system%20is.%22&fontSize=20&fontColor=60A5FA&fontAlignY=50&animation=fadeIn" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=60A5FA&height=100&section=header&text=MAYBE%20YOU%20NEED&fontSize=24&fontColor=60A5FA&fontAlignY=50&animation=fadeIn" width="80%"/>
 
 </div>
 
