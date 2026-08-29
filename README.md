@@ -1,14 +1,11 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=MUHAMMED%20ELMELEGY&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
-
 <br/>
-
 <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=60A5FA&labelColor=0f172a"/>
 <img src="https://img.shields.io/badge/Generative%20AI-1e3a8a?style=for-the-badge&logoColor=60A5FA&labelColor=1e3a8a"/>
 <img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
-
 </div>
+
 <br/>
 
 ### Tech Stack
@@ -48,7 +45,6 @@
 <br/>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
 <br>
 <br>
@@ -56,5 +52,11 @@
 <a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
 <a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
+</div>
 
+<br/>
+<div align="center">
+<sub>if you scrolled this far, here's a reward 👇</sub>
+<br/>
+<img src="funny-bg.jpg" width="400"/>
 </div>
