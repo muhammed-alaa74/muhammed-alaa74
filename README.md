@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Generative%20AI-1e3a8a?style=for-the-badge&logoColor=60A5FA&labelColor=1e3a8a"/>
 <img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
 </div>
-<br/>
-### Tech Stack
 
+
+### Tech Stack
 <br/>
 
 **Core**
