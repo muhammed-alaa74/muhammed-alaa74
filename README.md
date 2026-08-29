@@ -48,12 +48,6 @@
 <img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
 
 <br/>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
-<br/>
-<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
 <br>
