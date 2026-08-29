@@ -1,4 +1,19 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=60&section=header" width="100%"/>
+
+<br/>
+
+<img src="funny-bg.jpg" width="420" style="border-radius:16px; box-shadow: 0 8px 30px rgba(124,58,237,0.4);"/>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=60&section=footer" width="100%"/>
+
+</div>
+<br/>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=MUHAMMED%20ELMELEGY&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
 <br/>
 <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=60A5FA&labelColor=0f172a"/>
@@ -52,21 +67,4 @@
 <a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
 <a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
-</div>
-
-<br/>
-<br/>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=60&section=header" width="100%"/>
-
-<br/>
-
-<img src="funny-bg.jpg" width="420" style="border-radius:16px; box-shadow: 0 8px 30px rgba(124,58,237,0.4);"/>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=60&section=footer" width="100%"/>
-
 </div>
