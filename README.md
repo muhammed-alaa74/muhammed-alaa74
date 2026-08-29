@@ -55,8 +55,18 @@
 </div>
 
 <br/>
-<div align="center">
-<sub>if you scrolled this far, here's a reward 👇</sub>
 <br/>
-<img src="funny-bg.jpg" width="400"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=60&section=header" width="100%"/>
+
+<br/>
+
+<img src="funny-bg.jpg" width="420" style="border-radius:16px; box-shadow: 0 8px 30px rgba(124,58,237,0.4);"/>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=60&section=footer" width="100%"/>
+
 </div>
