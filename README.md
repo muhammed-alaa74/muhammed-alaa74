@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
 </div>
 <br/>
-### Tech Stack
+## Tech Stack
 
 <br/>
 
