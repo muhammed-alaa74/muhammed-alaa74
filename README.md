@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=MUHAMMED%20ELMELEGY&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
-<br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=60A5FA&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Generative%20AI-1e3a8a?style=for-the-badge&logoColor=60A5FA&labelColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
-</div>
+
 
 
 ### Tech Stack
