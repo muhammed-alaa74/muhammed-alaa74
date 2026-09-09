@@ -1,60 +1,63 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=MUHAMMED%20ELMELEGY&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEER&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
-<br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logoColor=60A5FA&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Generative%20AI-1e3a8a?style=for-the-badge&logoColor=60A5FA&labelColor=1e3a8a"/>
-<img src="https://img.shields.io/badge/Agentic%20Systems-2563eb?style=for-the-badge&logoColor=ffffff&labelColor=2563eb"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=MUHAMMED%20ELMELEGY&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Building%20intelligent%20systems%20from%20research%20to%20production&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+
 </div>
 
-
-### Tech Stack
 <br/>
 
-**Core**
-<br/>
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logoColor=white"/>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-<br/>
+### About
 
-**Generative & Agentic AI**
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-0f172a?style=for-the-badge&logo=keras&logoColor=D00000"/>
+Fourth-year Computer Science student specializing in AI & Machine Learning. I design and ship systems that sit at the intersection of computer vision, generative AI, and agentic workflows — currently building **Electregy**, an AI-driven energy management platform for commercial businesses.
 
-<br/>
+I care about the distance between a working notebook and a production system. Most of what I do lives in that gap.
 
-**Data & APIs**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabf7"/>
-<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-<img src="https://img.shields.io/badge/Plotly-0f172a?style=for-the-badge&logo=plotly&logoColor=white"/>
+</td>
+<td width="40%" valign="top">
 
-<br/>
+### Currently
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
+`Building` — Electregy, AI energy optimization
+`Exploring` — multi-agent architectures
+`Open to` — ML / AI Engineering internships
 
-<br/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2&section=header" width="100%"/>
+
+### Stack
+
+<table width="100%">
+<tr>
+<th align="left" width="20%">Core</th>
+<td>Python · TensorFlow · PyTorch · Scikit-Learn · OpenCV · XGBoost</td>
+</tr>
+<tr>
+<th align="left">Generative & Agentic</th>
+<td>LangChain · Hugging Face · OpenAI API · Keras</td>
+</tr>
+<tr>
+<th align="left">Data & Serving</th>
+<td>Pandas · NumPy · FastAPI · Streamlit · Plotly</td>
+</tr>
+<tr>
+<th align="left">Tooling</th>
+<td>Git · GitHub · VS Code · Anaconda</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2&section=header" width="100%"/>
+
 <div align="center">
-<img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
-<br>
-<br>
-<a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/></a>
-<a href="mailto:mohamedelmelegy632@gmail.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=c4b5fd"/></a>
-<a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
-<a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
-<a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
+
+**[LinkedIn](https://linkedin.com/in/muhammed-elmelegy)**   ·   **[Email](mailto:mohamedelmelegy632@gmail.com)**   ·   **[Kaggle](https://kaggle.com/mohamedelmelegy10)**   ·   **[GitHub](https://github.com/muhammed-alaa74)**   ·   **[Resume](https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing)**
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
