@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:8b5cf6&height=200&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=MUHAMMED+ELMELEGY;AI+%2F+ML+ENGINEER;BUILDING+ELECTREGY;OPEN+TO+AI+%2F+ML+INTERNSHIPS" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=MUHAMMED+ELMELEGY;AI+%2F+ML+ENGINEER;BUILDING+ELECTREGY;OPEN+TO+AI+%2F+ML+INTERNSHIPS" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -10,7 +10,18 @@ Fourth-year Computer Science student specializing in AI &amp; Machine Learning â
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,streamlit,anaconda,git,github,vscode,linux&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv&theme=dark" height="55"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,anaconda,git,github,vscode,linux&theme=dark" height="55"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=openai&logoColor=ffffff"/>&nbsp;
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=keras&logoColor=D00000"/>
 
 <br/><br/>
 
@@ -22,6 +33,6 @@ Fourth-year Computer Science student specializing in AI &amp; Machine Learning â
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:4c1d95,100:1e1b4b&height=150&section=footer"/>
 
 </div>
