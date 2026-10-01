@@ -48,13 +48,17 @@
 <img src="https://img.shields.io/badge/Anaconda-0f172a?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
 
 <br/>
+
 <div align="center">
 <img src="https://img.shields.io/badge/MAYBE%20YOU%20NEED-2e1065?style=for-the-badge&logoColor=c4b5fd&labelColor=2e1065"/>
 <br>
 <br>
+
+<a href="https://muhammed-elmemelgy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
 <a href="https://linkedin.com/in/muhammed-elmelegy"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/></a>
 <a href="mailto:mohamedelmelegy632@gmail.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=c4b5fd"/></a>
 <a href="https://kaggle.com/mohamedelmelegy10"><img src="https://img.shields.io/badge/Kaggle-4c1d95?style=for-the-badge&logo=kaggle&logoColor=c4b5fd"/></a>
 <a href="https://github.com/muhammed-alaa74"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=c4b5fd"/></a>
 <a href="https://drive.google.com/file/d/14b9SCWaxO5jRa3Y7qUzxZ8ReoW0uwpmi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4c1d95?style=for-the-badge&logoColor=c4b5fd"/></a>
+
 </div>
